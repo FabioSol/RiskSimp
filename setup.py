@@ -14,7 +14,7 @@ setup(
                 'distributions into their processes, facilitating non-deterministic analysis ',
     author='Fabio Sol',
     author_email='fabioso2231@gmail.com',
-    url='https://github.com/yourusername/your-library',
+    url='https://github.com/FabioSol/RiskSimp.git',
     license='MIT',
     install_requires=requirements,
 )
