@@ -1,6 +1,7 @@
 from setuptools import setup, find_packages
 from RiskSimp import __version__
 
+print(find_packages())
 
 with open('requirements.txt') as f:
     requirements = f.read().splitlines()
