@@ -84,7 +84,7 @@ class Simulation(Distribution):
                 plt.plot(variations, y[i], marker='o', label=labels[i])
                 plt.legend()
 
-            plt.title(f"Spider plot on Output {e + 1}")
+            plt.title(f"Spider chart on Output {e + 1}")
             plt.xlabel("Variation")
             plt.ylabel("Output")
             plt.gca().xaxis.set_major_formatter(mticker.PercentFormatter(xmax=1))
