@@ -1,6 +1,6 @@
 # RiskSimp: Simplifying Random Variables and Simulation in Python
 
-**Version: 0.1.0**
+**Version: 0.1.5**
 
 RiskSimp is a versatile Python library designed to streamline the management and manipulation of random variables, empowering analysts to effortlessly integrate random distributions into their processes and facilitate non-deterministic analysis.
 
